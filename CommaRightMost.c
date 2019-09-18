@@ -2,7 +2,7 @@
  ============================================================================
  Name        :Hello world
  Author      : Deepak Choudhary
- Description : In this Program I observe that .
+ Description : In this Program I observe that How int x Print the value.
  ============================================================================
  */
 

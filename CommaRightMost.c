@@ -2,7 +2,11 @@
  ============================================================================
  Name        :Hello world
  Author      : Deepak Choudhary
- Description : In this Program I observe that How int x Print the value.
+ Description : In this program, I observed how comma operators work in parentheses.
+ 
+ 
+In general, associativity of the comma operator is Left to Right but when we face parentheses it works Differently.
+In Parentheses it will take Right most value and print it.  
  ============================================================================
  */
 

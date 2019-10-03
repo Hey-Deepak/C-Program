@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "pattern3.C": "cpp"
-    }
+        "pattern3.C": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

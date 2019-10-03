@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "pattern3.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "NEWRSPS.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

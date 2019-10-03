@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{   char s[] = "ABC", *p;
-    printf("%d", 7);
+{  int x=10000;
+    printf("%10.2d",x );
     return 0;
 }

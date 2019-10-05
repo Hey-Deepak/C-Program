@@ -11,6 +11,9 @@ int main()
         b--;
     }
     printf("%d", a);
+
+    //OR printf("%d", a-(-b));
+
     return 0;
 }
 

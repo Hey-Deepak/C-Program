@@ -12,7 +12,6 @@ int main(){
         a = b;
         b = count;
     }
-    
     return 0;
 }
         

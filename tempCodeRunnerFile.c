@@ -1,10 +1,3 @@
-
-#include<stdio.h>
-
-void main()
-{
-    printf("");
-    scanf("");
+ if(a[i]==10)
+            break;
     
-    return 0;
-}

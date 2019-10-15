@@ -15,3 +15,12 @@ int main(void){
     
     return 0;
 }
+
+/*  
+    Input :- 12/4/2005
+    
+    Output :- 
+    Day is: 12
+    Month is: 4
+    Year is 2005
+*/

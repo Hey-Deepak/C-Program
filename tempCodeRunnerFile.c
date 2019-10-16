@@ -1,3 +1,1 @@
- if(a[i]==10)
-            break;
-    
+    printf("Address of ptra is %d\n", ptra);

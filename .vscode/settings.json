@@ -3,7 +3,9 @@
         "pattern3.C": "cpp",
         "stdio.h": "c",
         "NEWRSPS.C": "cpp",
-        "MyGets.c.C": "cpp"
+        "MyGets.c.C": "cpp",
+        "ARMSTR (1).C": "cpp",
+        "ARMSTR.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

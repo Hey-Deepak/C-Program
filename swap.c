@@ -1,11 +1,12 @@
 #include<stdio.h>
-swap(int *x, int *y)
-{
-    int *temp;
-    *temp = *x;
+void swap(int *x, int *y)
+{ 
+    int temp;
+    temp = *x;
     *x = *y;
-    *y = *x;
-    return ;
+    *y = temp;
+    printf("After Swapping \n");
+    printf("a value is %d \nb value is %d \n", *x, *y);
 
 }
 
@@ -18,7 +19,6 @@ int main()
     printf("Before Swapping \n");
     printf("a value is %d \nb value is %d \n", a, b);
     swap(&a, &b);
-    printf("After Swapping \n");
-    printf("a value is %d \nb value is %d \n", a, b);
+    
     return 0;  
 }

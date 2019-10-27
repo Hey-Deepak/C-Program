@@ -12,7 +12,7 @@ int fact(int n){
 }
 int main()
 {
-    printf("%d",fact(-3) );
+    printf("%d",fact(11) );
     
     return 0;  
 }

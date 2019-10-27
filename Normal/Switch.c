@@ -16,12 +16,10 @@ int main()
     {
     case 1: 
         printf("You Just Enter 1\n");
-
-        
         break;
     
     default:
-         printf("You Enter %d\n", age);
+        printf("You Enter %d\n", age);
         break;
     }
     

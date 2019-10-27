@@ -4,7 +4,7 @@ int main()
 {
    int i, counter2 =0, counter1 = 0, total;
 
-   for (i = 1; i < 10000; i++)
+   for (i = 1; i < 1000; i++)
    {
       if (i % 3 == 0 || i % 5 == 0)
       {

@@ -1,1 +1,1 @@
-    printf("Address of ptra is %d\n", ptra);
+      if (i % 3 == 0 || i % 5 == 0)

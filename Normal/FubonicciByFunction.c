@@ -5,10 +5,10 @@ void fab(int n)
     for (int i = 0; i < n; i++)
     {   
        
-        count = (a + b);
         printf("%d,", count);
         a = b;
         b = count;
+        count = (a + b);
     }
     };
     int main()
